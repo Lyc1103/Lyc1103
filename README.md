@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Lyc1103
-- 👀 I’m interested in volleyball
-- 🌱 I’m currently learning C, Python and JavaScript
-- 💞️ I’m just a student looking for some friends who like coding
-- 📫 This is my <a href = "https://www.facebook.com/steven.lin.1232/">Facebook</a>
+- 👀 I’m interested in weight training
+- 🌱 I’m currently learning C/C++ and Python
+- 💞️ Learning gets better.
+- 📫 This is my <a href = "https://www.instagram.com/lyc7113/">Instagram</a>
